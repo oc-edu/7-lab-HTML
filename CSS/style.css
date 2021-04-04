@@ -64,3 +64,16 @@
  background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/footer.jpg?raw=true);
  background-repeat: repeat-x;
 }
+
+body{
+ width:___px;
+ padding-left:50%;
+ margin: 0px;
+}
+ 
+#main{
+ width:___px;
+ margin-left:-400px;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/fon_bg.jpg?raw=true);
+ background-repeat: repeat-y;
+}
