@@ -1,0 +1,32 @@
+#main{
+ width: 800px;
+ margin-left: -400;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/fon_bg.jpg?raw=true);
+ background-repeat: repeat-y;
+}
+
+#header{
+ width: 800px;
+ height: 155px;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/header.jpg?raw=true);
+ background-repeat:no-repeat;
+}
+
+#menu1{
+ width: 800px;
+ height: 35px;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/menu1.jpg?raw=true);
+ background-repeat:no-repeat;
+}
+#menu2{
+ width: 800px;
+ height: 36px;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/menu2.jpg?raw=true);
+ background-repeat:no-repeat;
+}
+#menu3{
+ width: 800px;
+ height: 72px;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/menu3.jpg?raw=true);
+ background-repeat:no-repeat;
+}
