@@ -30,3 +30,37 @@
  background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/menu3.jpg?raw=true);
  background-repeat:no-repeat;
 }
+
+#reklama{
+ float:left;
+ width: 263px;
+}
+#reklama_top{
+ width: 263px;
+ height: 67px;
+ background-image: url(https://raw.githubusercontent.com/oc-edu/7-lab-HTML/master/images/reklama_top.jpg);
+ background-repeat:no-repeat;
+}
+#reklama_text{
+ width: 263px;
+ background-image: url(https://raw.githubusercontent.com/oc-edu/7-lab-HTML/master/images/reklama_bg.jpg);
+ background-repeat: repeat-y;
+}
+#reklama_bottom{
+ width: 263px;
+ height: 35px;
+ background-image: url(https://raw.githubusercontent.com/oc-edu/7-lab-HTML/master/images/reklama_bottom.jpg);
+ background-repeat:no-repeat;
+}
+#content{
+ float:left;
+ width: 507px; 
+}
+
+#footer{
+ clear:both;
+ width: 800px;
+ height: 28px;
+ background-image: url(https://github.com/oc-edu/7-lab-HTML/blob/master/images/footer.jpg?raw=true);
+ background-repeat: repeat-x;
+}
